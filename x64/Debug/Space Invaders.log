@@ -1,0 +1,12 @@
+﻿  Enemy.cpp
+  Game.cpp
+C:\Users\jacks\source\repos\Space Invaders\src\Game.cpp(86,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+  Player.cpp
+  ResourceManager.cpp
+  SpriteRenderer.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\jacks\source\repos\Space Invaders\x64\Debug\Space Invaders.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Space Invaders.vcxproj -> C:\Users\jacks\source\repos\Space Invaders\x64\Debug\Space Invaders.exe
