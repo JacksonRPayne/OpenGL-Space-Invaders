@@ -10,4 +10,4 @@ about the rendering process in OpenGL. I also used this project to learn how obj
 4) Silly pictures of my friends
 
 # References
-When writing this code I referenced [Learn OpenGL](https://learnopengl.com/In-Practice/2D-Game/Breakout) and [The Cherno's](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) youtube tutorials.
+When writing this code I referenced [Learn OpenGL](https://learnopengl.com/In-Practice/2D-Game/Breakout) and [The Cherno's](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) youtube tutorials. However much of the code, for example the animation system, was written with no references, the references were mostly used for insporation in how to organize the code.
